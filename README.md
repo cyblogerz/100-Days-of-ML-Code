@@ -3,7 +3,7 @@
 ### I've joined the #100DaysOfCode Challenge
 
 
-##LOG:
+## LOG:
 
 Day 1 - Data preprocessing
 

@@ -3,4 +3,5 @@
 
 
 Day 1 - Data preprocessing
+
 Day 2 - Simple Linear regression
